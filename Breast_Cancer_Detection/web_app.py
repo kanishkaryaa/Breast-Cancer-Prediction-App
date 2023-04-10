@@ -32,7 +32,7 @@ def breast_cancer_prediction(input_data):
 def main():
 
     #giving a title
-    st.title("Diabetes Prediction Web App")
+    st.title("Breast Cancer Prediction Web App")
 
     # getting the input from the user
     # mean radius	mean texture	mean perimeter	mean area	mean smoothness	mean compactness	mean concavity	mean concave points	mean symmetry	mean fractal dimension	...	worst radius	worst texture	worst perimeter	worst area	worst smoothness	worst compactness	worst concavity	worst concave points	worst symmetry	worst fractal dimension
